@@ -2,16 +2,16 @@
   "name": "my_portfolio",
   "version": "1.0.0",
   "description": "my portfolio",
-  "homepage": "https://github.com/vigneshcj001/vigneshwarancj-portfolio-website#readme",
+  "homepage": "https://github.com/prasanna8925/frontend_portfolio#readme",
   "bugs": {
-    "url": "https://github.com/vigneshcj001/vigneshwarancj-portfolio-website/issues"
+    "url": "https://github.com/prasanna8925/frontend_portfolio/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vigneshcj001/vigneshwarancj-portfolio-website.git"
+    "url": "git+https://github.com/prasanna8925/frontend_portfolio.git"
   },
   "license": "ISC",
-  "author": "vigneshwaran",
+  "author": "prasanna",
   "type": "commonjs",
   "scripts": {
     "start": "parcel index.html",
